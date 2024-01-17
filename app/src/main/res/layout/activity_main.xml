@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".MainActivity"
+    android:gravity="center"
+    android:background="@drawable/rt">
+
+    <TextView
+        android:id="@+id/usernameTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:textColor="@android:color/black"
+        android:layout_marginBottom="8dp"
+        android:layout_marginTop="15dp"
+        android:layout_gravity="start"/>
+
+    <TextView
+        android:id="@+id/courseTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:textColor="@android:color/black"
+        android:layout_gravity="start"/>
+
+    <TextView
+        android:id="@+id/sectionTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:textColor="@android:color/black"
+        android:layout_gravity="start"/>
+
+    <TextView
+        android:id="@+id/roleTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:textColor="@android:color/black"
+        android:layout_gravity="start"/>
+
+
+    <ImageView
+        android:layout_width="130dp"
+        android:layout_height="130dp"
+        android:src="@drawable/logo"
+        android:layout_marginBottom="20dp"
+        android:id="@+id/sanPablo"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/uploadModuleButton"
+        android:text="Upload Module"/>
+    <Button
+        android:id="@+id/quizButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Create Quiz" />
+    <Button
+        android:id="@+id/viewModuleButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="San Pablo Local History" />
+    <Button
+        android:id="@+id/scanQuizButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Scan Quiz" />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/checkUserButton"
+        android:text="Check Users"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/myScoreButton"
+        android:text="Quiz History"/>
+
+    <Button
+        android:id="@+id/checkRegistrationButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Check Registration" />
+
+    <Button
+        android:id="@+id/logoutButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Logout" />
+
+</LinearLayout>

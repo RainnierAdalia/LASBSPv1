@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">LASBSP</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="click_to_register">Click to Register</string>
+    <string name="click_to_login">Click to Login</string>
+    <string name="username">Last Name</string>
+    <string name="firstname">First Name</string>
+    <string name="mid">Middle Name</string>
+    <string name="idnum">ID Number</string>
+    <string-array name="course_options">
+        <item>BSIT</item>
+        <item>BSIS</item>
+    </string-array>
+    <string-array name="section_options">
+        <item>1A</item>
+        <item>1B</item>
+        <item>1C</item>
+        <item>1D</item>
+        <item>1E</item>
+        <item>1F</item>
+        <item>1G</item>
+        <item>1H</item>
+    </string-array>
+    <string name="select_batch">Select Batch</string>
+    <string name="next">Next</string>
+    <string-array name="batch_years">
+        <item>2022</item>
+        <item>2023</item>
+        <item>2024</item>
+        <item>2025</item>
+    </string-array>
+    <string-array name="chapter_array">
+        <item>Chapter 1</item>
+        <item>Chapter 2</item>
+        <item>Chapter 3</item>
+        <item>Chapter 4</item>
+        <item>Chapter 5</item>
+    </string-array>
+
+    <array name="registration_years">
+        <item>2023-24</item>
+        <item>2024-25</item>
+        <item>2025-26</item>
+    </array>
+
+    <string name="timer_format">Time remaining: %1$d seconds</string>
+
+
+    <string name="info_pandin_and_yambo_lake">According to the legend, these two lakes were named after two lovers. It was told that a beautiful woman named Pandin was cursed not to set foot on the earth; otherwise, something terrible would befall her. Yambo, her ardent lover, was unaware of the curse and unintentionally caused her to step on the earth. This led to a terrible noise, followed by the rumbling of the earth and a heavy downpour. Eventually, this transformed the area into twin lakes, separated from each other by a narrow strip of land.</string>
+
+    <string name="palakpakin">According to the legends, the origin of Lake Palakpakin dates back to a time long ago when there was a village not far from the city, known for an ancient old tree with a hollow trunk called &quot;palakpak.&quot; Some villagers claimed that on moonlit nights, they could see a beautiful red-haired lady washing her long hair in the hollow trunk, which served as her wash basin. There was also a nearby river where a big fish would appear each night when the beautiful lady was around. The villagers refrained from catching it, believing it to be her pet.\n\nOne day, a stranger arrived in the village, determined to unravel the mystery surrounding the red-haired lady and the fish. One moonlit night, he patiently waited for her. Upon seeing the lady in her pristine glory, the stranger approached her. Suddenly, there was thunder and lightning, the earth shook with terrible intensity, and the river swelled alarmingly, transforming into a lake teeming with a vast number of shrimps.\n\nFollowing this tragic event, both the red-haired lady and the big fish vanished abruptly. As time passed, the lake that had emerged in the village became a source of income for the residents due to the abundance of freshwater fish and shrimps. From that point on, the residents named the lake &quot;Lake Palakpakin&quot; in honor of the mysterious tale from their village and the ancient tree with the hollow trunk, known as &quot;palakpak.&quot;</string>
+
+    <string name="bunot">According to folklore and legends, the name "Lake Bunot" is said to be derived from coconut husks. During the Spanish regime in the Philippines, there was a group of Spanish soldiers who arrived at a tranquil lagoon to conduct a survey in the area. While performing the survey, they noticed some workers who were removing coconut husks near the lagoon. Curious about the lagoon\'s name, one of the Spanish soldiers approached a worker and inquired about it. Although the worker didn\'t fully grasp the soldier\'s question, they understood the gist and replied with "bunot," referring to a part of the coconut fruit. The Spanish soldier departed, repeating the word "bunot." From that moment on, the tranquil lagoon became known as Lake Bunot.</string>
+
+    <string name="mangga">Raphael Jose G. Catipon interviewed his grandfather, Mr. Franco M. Guevarra, aged 78, to uncover the origin story of the mango trees in San Pablo City Plaza. In 1947, the City Government sought help from the Provincial Agriculturist to plant mango trees along Rizal Avenue to San Pablo Central Elementary School. Mr. Paulino Guevarra, Raphael\'s great-grandfather and an officer in charge at that time, planted "Kinalabaw" mango trees brought from Calauan, Laguna, in the plaza. The trees were watered daily by firefighters and cared for by the City of Engineering Office. Over the years, the mango trees became a gathering spot for friends and lovers and a landmark in San Pablo City. In 1963, Mayor Tomas D. Dizon ordered the removal of most mango trees from the sidewalks, preserving only the "Manggang Pahuhutan," which was later replanted in its original location. The plaza\'s mango trees, known as "Sa Mangga" (meaning "At the Mango Tree"), served as a meeting point before the establishment of the SM mall, giving the city its unique landmark.</string>
+
+    <string name="white_house">The Fule house was constructed during the final years of the Spanish regime. It served as a landmark gateway to San Pablo, characterized by its grand colonial architecture, romantic azoteas, and stables for horses. This house also had historical significance, as it once provided refuge to Gen. Miguel Malvar when he was being pursued by the Americans during the Filipino-American war.</string>
+
+    <string name="prudencia">Built in the 1890s, this ancestral house was used as a hideout by General Miguel Malvar when he was in Laguna to confer with the Katipuneros in the late 1890s. The property was donated by the heirs of Ms. Prudencia Fule to the city government for educational purposes only.</string>
+
+    <string name="libraryhub">Casa Real was the first public building built by the Spanish friars from 1810 to 1814 under Father Cabrera. It was later rebuilt in 1905 to 1907 during the American regime under the supervision of the Philippine Commission. It served as the local government administrative building or old municipal hall until March 30, 1940. From 1940 until the late 1980s, it housed the Court of First Instance. After its rehabilitation in 2008 to 2009, it has been used as the Department of Education Library Hub. The right wing of the second floor has housed the Family Court since 2017.</string>
+
+    <string name="spcHall">It represents the prevailing architectural characteristics and design during the American Colonial period when the structure was built. The building was designed by Architect Antonio Toledo, one of the government architects during the American Colonial period, showcasing the popular design of that era. Other buildings designed by Architect Toledo include the City Hall of Manila (1941), the Department of Agriculture and Commerce (now Tourism Building), the Department of Finance (now National Museum), Leyte Capitol (1920s), Cebu Provincial Capitol (1937), Manila Customs House, UP College of Medicine Annex (Padre Faura Campus), UP University Library (Padre Faura Campus), and the Women\'s Dormitory of the Philippine Normal School.</string>
+
+    <string name="church">The Cathedral Parish of Saint Paul the First Hermit, otherwise known as the San Pablo Cathedral, is the seat of the Diocese of San Pablo. The roots of this historic church can be traced as far back as 1571, the year that Spanish captain Juan de Salcedo arrived in the area. The Augustinians established the parish and its first wooden church in 1586, naming St. Paul their patron and protector. The village, originally called Sampaloc, was also renamed San Pablo de los Montes.</string>
+
+    <string name="muhikap_lake">The story of Lake Muhikap is reminiscent of the legend of Lake Pandin and Lake Yambo. It recounts the tale of a couple who had a very sickly daughter named Munica. The couple were devoutly religious, and they continuously prayed to God for the good health of their only child. They made a solemn promise to do anything if God would answer their prayers. God granted their request but on the condition that Munica must not set foot on the earth.\n\nOne day, while Munica was sewing her dress, the ball of thread she was using fell to the ground. Her parents were not present to retrieve the fallen ball of thread, so Munica decided to recover it herself. However, while doing so, she fainted and immediately sank into the ground, taking the entire neighborhood with her. A lagoon emerged in her place, and this body of water was later named Muhikap in honor of the unfortunate but diligent girl. The name "Muhikap" is a combination of Munica\'s name and "Mahikap," which means industrious.</string>
+
+    <string name="calibato_lake">The legend of Lake Calibato in San Pablo City, Laguna tells of a once thriving valley filled with fruit trees, plants, and animals. The local residents built stone pathways known as &quot;Cali-Cali&quot; to access the valley, but their destructive actions angered a fairy who protected the environment. In response, the fairy caused a catastrophic flood that submerged the valley, transforming it into the lake we now know as Lake Calibato, named after the &quot;Cali&quot; meaning way, and &quot;Bato&quot; meaning rock.</string>
+
+    <string name="sampalok">Sampaloc Lake used to be an extensive fruit orchard, lorded over by a huge tamarind (sampalok) tree situated in the backyard of the landowner, a selfish and stingy old woman. One day, a hungry-looking man came and begged for a few tamarind fruits to serve as a cure for his ailing grandson. Instead of yielding to his appeal for help, the stingy old woman had him driven away from the fruit orchard by her ferocious dogs. The old man was badly hurt. Hardly an hour after the old man had left, there was a thundering noise followed by a cracking of the earth. The next instant, the entire orchard sank into a colossal pit, which was eventually filled with water.\nHenceforth, the villagers called it Lake Sampalok.</string>
+
+    <string name="bonifacio">The Bonifacio Monument serves as a powerful reminder of the heroic deeds of Andres Bonifacio in the quest for Philippine Independence. It is strategically situated on the upper west bank of Sampalok Lake, offering a panoramic view of the lake from the view deck. Inaugurated on November 30, 1997, in celebration of the \'s 134th birth anniversary, this monument was sculpted in concrete cement by Conrado Balubagan of Sta. Cruz, Laguna. It stands proudly on the elevated western bank of Sampalok Lake, commemorating the legacy of Andres Bonifacio, the Founder of Katipunan.</string>
+    <string-array name="timer_options">
+        <item>No Timer</item>
+        <item>30 seconds</item>
+        <item>45 seconds</item>
+        <item>1 minute</item>
+    </string-array>
+
+
+</resources>

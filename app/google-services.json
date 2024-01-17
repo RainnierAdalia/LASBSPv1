@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "493258902148",
+    "project_id": "qr-code-system-lasbsp",
+    "storage_bucket": "qr-code-system-lasbsp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493258902148:android:17c2100c91639db50510d1",
+        "android_client_info": {
+          "package_name": "com.example.quizgeneration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493258902148-hp9clr7rk9nq45jfucgf01bpv0eigkqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwqYv7vLN85NvVoQ7hGEQbUSRDrwUNg4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493258902148-hp9clr7rk9nq45jfucgf01bpv0eigkqv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
